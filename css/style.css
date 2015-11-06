@@ -39,7 +39,7 @@
     display: block;
 }
 
-.item-avatar i:first-child, 
+.item-avatar i:first-child,
 .item-avatar .item-img {
     position: absolute;
     top: 25px;
